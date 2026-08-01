@@ -52,9 +52,10 @@ Administration and automation scripts for Windows systems and infrastructure man
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pkr-lab&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkr-lab&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&cache_seconds=86400)
+![GitHub](https://img.shields.io/badge/GitHub-pkr--lab-181717?logo=github)
+![Followers](https://img.shields.io/github/followers/pkr-lab?label=Followers...)
+![Pull Shark x2](https://img.shields.io/badge/Achievement-Pull%20Shark%20x2-29b6f6)
+![YOLO](https://img.shields.io/badge/Achievement-YOLO-29b6f6)
 
 </div>
 
