@@ -4,7 +4,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,ansible,swift,py,java,javascript,typescript,bash,powershell" />
+    <img src="https://skillicons.dev/icons?i=go,ansible,apple,grafana,ubuntu,swift,py,java,javascript,typescript,bash,powershell" />
   </a>
 </p>
 
