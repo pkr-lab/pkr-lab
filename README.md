@@ -1,5 +1,20 @@
 # PKR-Lab
 
+## Languages
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,ansible,swift,py,java,javascript,typescript,bash,powershell" />
+  </a>
+</p>
+
+## Frameworks, engines & tools
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker" />
+  </a>
+</p>
+
 ## GitHub Activity
 
 <div align="center">
@@ -10,20 +25,5 @@
 ![YOLO](https://img.shields.io/badge/Achievement-YOLO-29b6f6)
 
 </div>
-
-## Languages
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,swift,py,java,javascript,typescript,bash,powershell" />
-  </a>
-</p>
-
-## Frameworks, engines & tools
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker" />
-  </a>
-</p>
 
 *Infrastructure is code. Code is infrastructure.*
