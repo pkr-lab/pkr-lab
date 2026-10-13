@@ -4,14 +4,14 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,ansible,apple,grafana,ubuntu,swift,py,java,javascript,typescript,bash,powershell" />
+    <img src="https://skillicons.dev/icons?i=go,ansible,grafana,swift,py,java,javascript,typescript,bash,powershell" />
   </a>
 </p>
 
 ## Frameworks, engines & tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,ubuntu,apple,gitlab,github" />
   </a>
 </p>
 
