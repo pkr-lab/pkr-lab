@@ -11,4 +11,19 @@
 
 </div>
 
+## Languages
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,swift,py,java,javascript,typescript,bash,powershell" />
+  </a>
+</p>
+
+## Frameworks, engines & tools
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker" />
+  </a>
+</p>
+
 *Infrastructure is code. Code is infrastructure.*
