@@ -16,7 +16,13 @@
 
 ### Platforms
 
-<img src="https://skillicons.dev/icons?i=ubuntu,apple" />
+<img src="https://skillicons.dev/icons?i=ubuntu,windows,apple" />
+
+### Virtualization
+
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
 
 <br>
 
