@@ -8,7 +8,7 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=go,py,java,js,ts,swift,bash,powershell" />
+<img src="https://skillicons.dev/icons?i=go,py,java,js,ts,swift,bash,powershell,rust" />
 
 ### Infrastructure & Tools
 
